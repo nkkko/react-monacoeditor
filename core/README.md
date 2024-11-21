@@ -25,6 +25,8 @@ npm install @uiw/react-monacoeditor --save
 
 [![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?logo=codesandbox)](https://codesandbox.io/embed/react-monacoeditor-example-hgqfj?fontsize=14&hidenavigation=1&theme=dark)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/uiwjs/react-monacoeditor)
+
 ```jsx mdx:preview
 import React from 'react';
 import MonacoEditor from '@uiw/react-monacoeditor';
